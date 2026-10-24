@@ -1,0 +1,2551 @@
+[{
+  "_id": {
+    "$oid": "6adcc1ec71b733d212f3d092"
+  },
+  "source": "lead",
+  "sourceId": "L001",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Practice Manager — Northgate Family Clinic — Liked a post about AI receptionists for medical clinics — Sent a connection request after webinar on clinic automation",
+    "industry": "Healthcare",
+    "location": "Austin TX",
+    "details": {
+      "jobTitle": "Practice Manager",
+      "company": "Northgate Family Clinic",
+      "companySize": "11-50",
+      "headline": "Practice Manager helping small clinics run smoother ops"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852460382"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Rebecca",
+    "family": "Hart",
+    "display": "Rebecca Hart"
+  },
+  "rawPayload": {
+    "lead_id": "L001",
+    "full_name": "Rebecca Hart",
+    "job_title": "Practice Manager",
+    "company": "Northgate Family Clinic",
+    "industry": "Healthcare",
+    "company_size": "11-50",
+    "location": "Austin TX",
+    "linkedin_headline": "Practice Manager helping small clinics run smoother ops",
+    "recent_activity": "Liked a post about AI receptionists for medical clinics",
+    "connection_note": "Sent a connection request after webinar on clinic automation"
+  },
+  "signals": {
+    "priority": "medium",
+    "tags": [
+      "Healthcare",
+      "Practice Manager"
+    ]
+  },
+  "status": "processed",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852733561"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc1ec71b733d212f3d094"
+  },
+  "source": "lead",
+  "sourceId": "L002",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Owner — Feldman Dental Group — Commented on a post asking for GHL recommendations — No note, cold profile visit",
+    "industry": "Dental",
+    "location": "Denver CO",
+    "details": {
+      "jobTitle": "Owner",
+      "company": "Feldman Dental Group",
+      "companySize": "1-10",
+      "headline": "Owner-dentist, 3 locations, always looking to cut admin overhead"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852460421"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Marcus",
+    "family": "Feldman",
+    "display": "Marcus Feldman"
+  },
+  "rawPayload": {
+    "lead_id": "L002",
+    "full_name": "Marcus Feldman",
+    "job_title": "Owner",
+    "company": "Feldman Dental Group",
+    "industry": "Dental",
+    "company_size": "1-10",
+    "location": "Denver CO",
+    "linkedin_headline": "Owner-dentist, 3 locations, always looking to cut admin overhead",
+    "recent_activity": "Commented on a post asking for GHL recommendations",
+    "connection_note": "No note, cold profile visit"
+  },
+  "signals": {
+    "priority": "medium",
+    "tags": [
+      "Dental",
+      "Owner"
+    ]
+  },
+  "status": "processed",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852733590"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc1ec71b733d212f3d096"
+  },
+  "source": "lead",
+  "sourceId": "L003",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Director of Operations — Sunrise Physiotherapy — Shared an article about patient no-show rates — Mutual connection: former colleague",
+    "industry": "Healthcare",
+    "location": "Toronto ON",
+    "details": {
+      "jobTitle": "Director of Operations",
+      "company": "Sunrise Physiotherapy",
+      "companySize": "51-200",
+      "headline": "Ops leader scaling physio clinics across Ontario"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852460427"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Priya",
+    "family": "Nair",
+    "display": "Priya Nair"
+  },
+  "rawPayload": {
+    "lead_id": "L003",
+    "full_name": "Priya Nair",
+    "job_title": "Director of Operations",
+    "company": "Sunrise Physiotherapy",
+    "industry": "Healthcare",
+    "company_size": "51-200",
+    "location": "Toronto ON",
+    "linkedin_headline": "Ops leader scaling physio clinics across Ontario",
+    "recent_activity": "Shared an article about patient no-show rates",
+    "connection_note": "Mutual connection: former colleague"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "Healthcare",
+      "Director of Operations"
+    ]
+  },
+  "status": "processed",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852733593"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc1ec71b733d212f3d098"
+  },
+  "source": "lead",
+  "sourceId": "L004",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Founder — O'Connell Med Spa — Posted about struggling with lead follow-up speed — Cold outreach, no prior interaction",
+    "industry": "Medspa",
+    "location": "Miami FL",
+    "details": {
+      "jobTitle": "Founder",
+      "company": "O'Connell Med Spa",
+      "companySize": "1-10",
+      "headline": "Founder, medspa entrepreneur, ex-nurse"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852460434"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "James",
+    "family": "O'Connell",
+    "display": "James O'Connell"
+  },
+  "rawPayload": {
+    "lead_id": "L004",
+    "full_name": "James O'Connell",
+    "job_title": "Founder",
+    "company": "O'Connell Med Spa",
+    "industry": "Medspa",
+    "company_size": "1-10",
+    "location": "Miami FL",
+    "linkedin_headline": "Founder, medspa entrepreneur, ex-nurse",
+    "recent_activity": "Posted about struggling with lead follow-up speed",
+    "connection_note": "Cold outreach, no prior interaction"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "Medspa",
+      "Founder"
+    ]
+  },
+  "status": "processed",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852733595"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc1ec71b733d212f3d09a"
+  },
+  "source": "lead",
+  "sourceId": "L005",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "VP Marketing — ClearPath Urgent Care — Attended a HubSpot webinar last week — Requested a demo via website form",
+    "industry": "Healthcare",
+    "location": "Phoenix AZ",
+    "details": {
+      "jobTitle": "VP Marketing",
+      "company": "ClearPath Urgent Care",
+      "companySize": "201-500",
+      "headline": "VP Marketing scaling multi-location urgent care brand"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852460437"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Angela",
+    "family": "Torres",
+    "display": "Angela Torres"
+  },
+  "rawPayload": {
+    "lead_id": "L005",
+    "full_name": "Angela Torres",
+    "job_title": "VP Marketing",
+    "company": "ClearPath Urgent Care",
+    "industry": "Healthcare",
+    "company_size": "201-500",
+    "location": "Phoenix AZ",
+    "linkedin_headline": "VP Marketing scaling multi-location urgent care brand",
+    "recent_activity": "Attended a HubSpot webinar last week",
+    "connection_note": "Requested a demo via website form"
+  },
+  "signals": {
+    "priority": "medium",
+    "tags": [
+      "Healthcare",
+      "VP Marketing"
+    ]
+  },
+  "status": "processed",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852733597"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc1ec71b733d212f3d09c"
+  },
+  "source": "lead",
+  "sourceId": "L006",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "CEO — Kim Chiropractic Network — Liked competitor's AI voice agent case study — No note, LinkedIn Sales Navigator saved search",
+    "industry": "Chiropractic",
+    "location": "Seattle WA",
+    "details": {
+      "jobTitle": "CEO",
+      "company": "Kim Chiropractic Network",
+      "companySize": "11-50",
+      "headline": "CEO running a 6-clinic chiropractic network"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852460441"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "David",
+    "family": "Kim",
+    "display": "David Kim"
+  },
+  "rawPayload": {
+    "lead_id": "L006",
+    "full_name": "David Kim",
+    "job_title": "CEO",
+    "company": "Kim Chiropractic Network",
+    "industry": "Chiropractic",
+    "company_size": "11-50",
+    "location": "Seattle WA",
+    "linkedin_headline": "CEO running a 6-clinic chiropractic network",
+    "recent_activity": "Liked competitor's AI voice agent case study",
+    "connection_note": "No note, LinkedIn Sales Navigator saved search"
+  },
+  "signals": {
+    "priority": "medium",
+    "tags": [
+      "Chiropractic",
+      "CEO"
+    ]
+  },
+  "status": "processed",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852733600"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc1ec71b733d212f3d09e"
+  },
+  "source": "lead",
+  "sourceId": "L007",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Office Manager — Bianchi Orthodontics — Commented asking about missed call recovery tools — Warm intro from existing client",
+    "industry": "Dental",
+    "location": "Newark NJ",
+    "details": {
+      "jobTitle": "Office Manager",
+      "company": "Bianchi Orthodontics",
+      "companySize": "1-10",
+      "headline": "Office manager, small ortho practice, solo admin"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852460444"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Laura",
+    "family": "Bianchi",
+    "display": "Laura Bianchi"
+  },
+  "rawPayload": {
+    "lead_id": "L007",
+    "full_name": "Laura Bianchi",
+    "job_title": "Office Manager",
+    "company": "Bianchi Orthodontics",
+    "industry": "Dental",
+    "company_size": "1-10",
+    "location": "Newark NJ",
+    "linkedin_headline": "Office manager, small ortho practice, solo admin",
+    "recent_activity": "Commented asking about missed call recovery tools",
+    "connection_note": "Warm intro from existing client"
+  },
+  "signals": {
+    "priority": "medium",
+    "tags": [
+      "Dental",
+      "Office Manager"
+    ]
+  },
+  "status": "processed",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852733602"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc1ec71b733d212f3d0a0"
+  },
+  "source": "lead",
+  "sourceId": "L008",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Practice Owner — Okafor Eye Care — Shared a post about patient scheduling pain points — Cold profile visit, viewed our page twice",
+    "industry": "Healthcare",
+    "location": "Houston TX",
+    "details": {
+      "jobTitle": "Practice Owner",
+      "company": "Okafor Eye Care",
+      "companySize": "1-10",
+      "headline": "Optometrist and practice owner, tech-curious"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852460446"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Samuel",
+    "family": "Okafor",
+    "display": "Samuel Okafor"
+  },
+  "rawPayload": {
+    "lead_id": "L008",
+    "full_name": "Samuel Okafor",
+    "job_title": "Practice Owner",
+    "company": "Okafor Eye Care",
+    "industry": "Healthcare",
+    "company_size": "1-10",
+    "location": "Houston TX",
+    "linkedin_headline": "Optometrist and practice owner, tech-curious",
+    "recent_activity": "Shared a post about patient scheduling pain points",
+    "connection_note": "Cold profile visit, viewed our page twice"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "Healthcare",
+      "Practice Owner"
+    ]
+  },
+  "status": "processed",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852733604"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc1ec71b733d212f3d0a2"
+  },
+  "source": "lead",
+  "sourceId": "L009",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Clinical Director — Vitality Wellness Group — Posted about hiring more front-desk staff due to call volume — Requested pricing info via LinkedIn message",
+    "industry": "Wellness",
+    "location": "San Diego CA",
+    "details": {
+      "jobTitle": "Clinical Director",
+      "company": "Vitality Wellness Group",
+      "companySize": "51-200",
+      "headline": "Clinical director overseeing 4 wellness centers"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852460449"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Emily",
+    "family": "Zhang",
+    "display": "Emily Zhang"
+  },
+  "rawPayload": {
+    "lead_id": "L009",
+    "full_name": "Emily Zhang",
+    "job_title": "Clinical Director",
+    "company": "Vitality Wellness Group",
+    "industry": "Wellness",
+    "company_size": "51-200",
+    "location": "San Diego CA",
+    "linkedin_headline": "Clinical director overseeing 4 wellness centers",
+    "recent_activity": "Posted about hiring more front-desk staff due to call volume",
+    "connection_note": "Requested pricing info via LinkedIn message"
+  },
+  "signals": {
+    "priority": "high",
+    "tags": [
+      "Wellness",
+      "Clinical Director"
+    ]
+  },
+  "status": "processed",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852733606"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc1ec71b733d212f3d0a4"
+  },
+  "source": "lead",
+  "sourceId": "L010",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Owner — Hayes Family Dentistry — No recent activity — No note, imported from trade show list",
+    "industry": "Dental",
+    "location": "Nashville TN",
+    "details": {
+      "jobTitle": "Owner",
+      "company": "Hayes Family Dentistry",
+      "companySize": "1-10",
+      "headline": "Family dentist, owner-operator, 15 years in practice"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852460453"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Robert",
+    "family": "Hayes",
+    "display": "Robert Hayes"
+  },
+  "rawPayload": {
+    "lead_id": "L010",
+    "full_name": "Robert Hayes",
+    "job_title": "Owner",
+    "company": "Hayes Family Dentistry",
+    "industry": "Dental",
+    "company_size": "1-10",
+    "location": "Nashville TN",
+    "linkedin_headline": "Family dentist, owner-operator, 15 years in practice",
+    "recent_activity": "No recent activity",
+    "connection_note": "No note, imported from trade show list"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "Dental",
+      "Owner"
+    ]
+  },
+  "status": "processed",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852733608"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc1ec71b733d212f3d0a6"
+  },
+  "source": "lead",
+  "sourceId": "L011",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Growth Manager — MedSpa Collective — Liked a post about AI-driven booking conversion — Connected after LinkedIn ad campaign click",
+    "industry": "Medspa",
+    "location": "Los Angeles CA",
+    "details": {
+      "jobTitle": "Growth Manager",
+      "company": "MedSpa Collective",
+      "companySize": "11-50",
+      "headline": "Growth manager for a multi-brand medspa collective"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852460455"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Nina",
+    "family": "Patel",
+    "display": "Nina Patel"
+  },
+  "rawPayload": {
+    "lead_id": "L011",
+    "full_name": "Nina Patel",
+    "job_title": "Growth Manager",
+    "company": "MedSpa Collective",
+    "industry": "Medspa",
+    "company_size": "11-50",
+    "location": "Los Angeles CA",
+    "linkedin_headline": "Growth manager for a multi-brand medspa collective",
+    "recent_activity": "Liked a post about AI-driven booking conversion",
+    "connection_note": "Connected after LinkedIn ad campaign click"
+  },
+  "signals": {
+    "priority": "medium",
+    "tags": [
+      "Medspa",
+      "Growth Manager"
+    ]
+  },
+  "status": "processed",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852733609"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc1ec71b733d212f3d0a8"
+  },
+  "source": "lead",
+  "sourceId": "L012",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Founder & CEO — Whitfield Urgent Care — Commented on a post about after-hours call handling — Cold outreach, no interaction history",
+    "industry": "Healthcare",
+    "location": "Charlotte NC",
+    "details": {
+      "jobTitle": "Founder & CEO",
+      "company": "Whitfield Urgent Care",
+      "companySize": "11-50",
+      "headline": "Founder, ex-ER physician, building urgent care chain"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852460457"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Tom",
+    "family": "Whitfield",
+    "display": "Tom Whitfield"
+  },
+  "rawPayload": {
+    "lead_id": "L012",
+    "full_name": "Tom Whitfield",
+    "job_title": "Founder & CEO",
+    "company": "Whitfield Urgent Care",
+    "industry": "Healthcare",
+    "company_size": "11-50",
+    "location": "Charlotte NC",
+    "linkedin_headline": "Founder, ex-ER physician, building urgent care chain",
+    "recent_activity": "Commented on a post about after-hours call handling",
+    "connection_note": "Cold outreach, no interaction history"
+  },
+  "signals": {
+    "priority": "medium",
+    "tags": [
+      "Healthcare",
+      "Founder & CEO"
+    ]
+  },
+  "status": "processed",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852733610"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc1ec71b733d212f3d0aa"
+  },
+  "source": "lead",
+  "sourceId": "L013",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Operations Lead — Bloom Physiotherapy — Shared an article on patient retention strategies — No note, LinkedIn group member",
+    "industry": "Healthcare",
+    "location": "Vancouver BC",
+    "details": {
+      "jobTitle": "Operations Lead",
+      "company": "Bloom Physiotherapy",
+      "companySize": "1-10",
+      "headline": "Ops lead, single-location physio clinic, hands-on"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852460460"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Grace",
+    "family": "Liu",
+    "display": "Grace Liu"
+  },
+  "rawPayload": {
+    "lead_id": "L013",
+    "full_name": "Grace Liu",
+    "job_title": "Operations Lead",
+    "company": "Bloom Physiotherapy",
+    "industry": "Healthcare",
+    "company_size": "1-10",
+    "location": "Vancouver BC",
+    "linkedin_headline": "Ops lead, single-location physio clinic, hands-on",
+    "recent_activity": "Shared an article on patient retention strategies",
+    "connection_note": "No note, LinkedIn group member"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "Healthcare",
+      "Operations Lead"
+    ]
+  },
+  "status": "processed",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852733611"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc1ec71b733d212f3d0ac"
+  },
+  "source": "lead",
+  "sourceId": "L014",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Practice Manager — Russo Chiropractic — No recent activity, dormant profile — Cold outreach via Sales Navigator",
+    "industry": "Chiropractic",
+    "location": "Tampa FL",
+    "details": {
+      "jobTitle": "Practice Manager",
+      "company": "Russo Chiropractic",
+      "companySize": "1-10",
+      "headline": "Practice manager, family-run chiropractic office"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852460462"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Anthony",
+    "family": "Russo",
+    "display": "Anthony Russo"
+  },
+  "rawPayload": {
+    "lead_id": "L014",
+    "full_name": "Anthony Russo",
+    "job_title": "Practice Manager",
+    "company": "Russo Chiropractic",
+    "industry": "Chiropractic",
+    "company_size": "1-10",
+    "location": "Tampa FL",
+    "linkedin_headline": "Practice manager, family-run chiropractic office",
+    "recent_activity": "No recent activity, dormant profile",
+    "connection_note": "Cold outreach via Sales Navigator"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "Chiropractic",
+      "Practice Manager"
+    ]
+  },
+  "status": "processed",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852733612"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc1ec71b733d212f3d0ae"
+  },
+  "source": "lead",
+  "sourceId": "L015",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Director of Patient Experience — CarePoint Clinics — Posted about launching an AI chatbot pilot — Requested a call after seeing our case study",
+    "industry": "Healthcare",
+    "location": "Chicago IL",
+    "details": {
+      "jobTitle": "Director of Patient Experience",
+      "company": "CarePoint Clinics",
+      "companySize": "201-500",
+      "headline": "Director of patient experience across a regional clinic network"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852460464"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Sophia",
+    "family": "Bennett",
+    "display": "Sophia Bennett"
+  },
+  "rawPayload": {
+    "lead_id": "L015",
+    "full_name": "Sophia Bennett",
+    "job_title": "Director of Patient Experience",
+    "company": "CarePoint Clinics",
+    "industry": "Healthcare",
+    "company_size": "201-500",
+    "location": "Chicago IL",
+    "linkedin_headline": "Director of patient experience across a regional clinic network",
+    "recent_activity": "Posted about launching an AI chatbot pilot",
+    "connection_note": "Requested a call after seeing our case study"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "Healthcare",
+      "Director of Patient Experience"
+    ]
+  },
+  "status": "processed",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852733614"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc1ec71b733d212f3d0b0"
+  },
+  "source": "lead",
+  "sourceId": "L016",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Owner — Duran Dental Studio — Liked 3 posts about dental practice marketing this month — Connected via mutual dental association group",
+    "industry": "Dental",
+    "location": "San Antonio TX",
+    "details": {
+      "jobTitle": "Owner",
+      "company": "Duran Dental Studio",
+      "companySize": "1-10",
+      "headline": "Owner-dentist, single practice, very active on LinkedIn"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852460466"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Michael",
+    "family": "Duran",
+    "display": "Michael Duran"
+  },
+  "rawPayload": {
+    "lead_id": "L016",
+    "full_name": "Michael Duran",
+    "job_title": "Owner",
+    "company": "Duran Dental Studio",
+    "industry": "Dental",
+    "company_size": "1-10",
+    "location": "San Antonio TX",
+    "linkedin_headline": "Owner-dentist, single practice, very active on LinkedIn",
+    "recent_activity": "Liked 3 posts about dental practice marketing this month",
+    "connection_note": "Connected via mutual dental association group"
+  },
+  "signals": {
+    "priority": "medium",
+    "tags": [
+      "Dental",
+      "Owner"
+    ]
+  },
+  "status": "processed",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852733615"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc1ec71b733d212f3d0b2"
+  },
+  "source": "lead",
+  "sourceId": "L017",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Practice Administrator — Fournier Med Spa — Commented asking about multilingual AI receptionists — Warm intro from partner agency",
+    "industry": "Medspa",
+    "location": "Montreal QC",
+    "details": {
+      "jobTitle": "Practice Administrator",
+      "company": "Fournier Med Spa",
+      "companySize": "1-10",
+      "headline": "Practice administrator, bilingual clinic, growing fast"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852460468"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Chloe",
+    "family": "Fournier",
+    "display": "Chloe Fournier"
+  },
+  "rawPayload": {
+    "lead_id": "L017",
+    "full_name": "Chloe Fournier",
+    "job_title": "Practice Administrator",
+    "company": "Fournier Med Spa",
+    "industry": "Medspa",
+    "company_size": "1-10",
+    "location": "Montreal QC",
+    "linkedin_headline": "Practice administrator, bilingual clinic, growing fast",
+    "recent_activity": "Commented asking about multilingual AI receptionists",
+    "connection_note": "Warm intro from partner agency"
+  },
+  "signals": {
+    "priority": "medium",
+    "tags": [
+      "Medspa",
+      "Practice Administrator"
+    ]
+  },
+  "status": "processed",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852733616"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc1ec71b733d212f3d0b4"
+  },
+  "source": "lead",
+  "sourceId": "L018",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Regional Manager — Brooks Urgent Care Network — Shared a post about reducing patient wait times — No note, added from conference badge scan list",
+    "industry": "Healthcare",
+    "location": "Dallas TX",
+    "details": {
+      "jobTitle": "Regional Manager",
+      "company": "Brooks Urgent Care Network",
+      "companySize": "201-500",
+      "headline": "Regional manager overseeing 8 urgent care locations"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852460471"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Kevin",
+    "family": "Brooks",
+    "display": "Kevin Brooks"
+  },
+  "rawPayload": {
+    "lead_id": "L018",
+    "full_name": "Kevin Brooks",
+    "job_title": "Regional Manager",
+    "company": "Brooks Urgent Care Network",
+    "industry": "Healthcare",
+    "company_size": "201-500",
+    "location": "Dallas TX",
+    "linkedin_headline": "Regional manager overseeing 8 urgent care locations",
+    "recent_activity": "Shared a post about reducing patient wait times",
+    "connection_note": "No note, added from conference badge scan list"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "Healthcare",
+      "Regional Manager"
+    ]
+  },
+  "status": "processed",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852733617"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc21971b733d212f3d107"
+  },
+  "source": "fhir_patient",
+  "sourceId": "dba34946-91c6-464b-b8eb-c02f01e23c4f",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": "555-9007"
+  },
+  "context": {
+    "summary": "Synthetic FHIR Patient resource. Administrative outreach draft only; no clinical urgency inferred. Gender: male.",
+    "industry": "Healthcare",
+    "location": "Westwood, Massachusetts, US",
+    "details": {
+      "gender": "male",
+      "birthDate": "1920-10-03",
+      "active": null,
+      "resourceType": "Patient"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852505362"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Zachariah",
+    "family": "Osinski",
+    "display": "Zachariah Osinski"
+  },
+  "rawPayload": {
+    "resourceType": "Patient",
+    "id": "dba34946-91c6-464b-b8eb-c02f01e23c4f",
+    "meta": {
+      "versionId": "10",
+      "lastUpdated": "2026-10-24T09:36:50.613-04:00",
+      "tag": [
+        {
+          "system": "https://smarthealthit.org/tags",
+          "code": "synthea-5-2019"
+        }
+      ]
+    },
+    "text": {
+      "status": "generated",
+      "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Generated by <a href=\"https://github.com/synthetichealth/synthea\">Synthea</a>.Version identifier: v2.4.0-100-g26a4b936\n .   Person seed: -1208663236779296565  Population seed: 1559319163074</div>"
+    },
+    "extension": [
+      {
+        "url": "http://hl7.org/fhir/us/core/StructureDefinition/us-core-race",
+        "extension": [
+          {
+            "url": "ombCategory",
+            "valueCoding": {
+              "system": "urn:oid:2.16.840.1.113883.6.238",
+              "code": "2106-3",
+              "display": "White"
+            }
+          },
+          {
+            "url": "text",
+            "valueString": "White"
+          }
+        ]
+      },
+      {
+        "url": "http://hl7.org/fhir/us/core/StructureDefinition/us-core-ethnicity",
+        "extension": [
+          {
+            "url": "ombCategory",
+            "valueCoding": {
+              "system": "urn:oid:2.16.840.1.113883.6.238",
+              "code": "2186-5",
+              "display": "Not Hispanic or Latino"
+            }
+          },
+          {
+            "url": "text",
+            "valueString": "Not Hispanic or Latino"
+          }
+        ]
+      },
+      {
+        "url": "http://hl7.org/fhir/StructureDefinition/patient-mothersMaidenName",
+        "valueString": "Latonya Pouros"
+      },
+      {
+        "url": "http://hl7.org/fhir/us/core/StructureDefinition/us-core-birthsex",
+        "valueCode": "M"
+      },
+      {
+        "url": "http://hl7.org/fhir/StructureDefinition/patient-birthPlace",
+        "valueAddress": {
+          "city": "Braga",
+          "state": "Minho",
+          "country": "PT"
+        }
+      },
+      {
+        "url": "http://synthetichealth.github.io/synthea/disability-adjusted-life-years",
+        "valueDecimal": 1.5136587128204473
+      },
+      {
+        "url": "http://synthetichealth.github.io/synthea/quality-adjusted-life-years",
+        "valueDecimal": 98.48634128717956
+      }
+    ],
+    "identifier": [
+      {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "1793fd26-1b46-4c62-9586-bab044362ad0"
+      },
+      {
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "MR",
+              "display": "Medical Record Number"
+            }
+          ],
+          "text": "Medical Record Number"
+        },
+        "system": "http://hospital.smarthealthit.org",
+        "value": "1793fd26-1b46-4c62-9586-bab044362ad0"
+      },
+      {
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "SS",
+              "display": "Social Security Number"
+            }
+          ],
+          "text": "Social Security Number"
+        },
+        "system": "http://hl7.org/fhir/sid/us-ssn",
+        "value": "999-12-9179"
+      },
+      {
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "DL",
+              "display": "Driver's License"
+            }
+          ],
+          "text": "Driver's License"
+        },
+        "system": "urn:oid:2.16.840.1.113883.4.3.25",
+        "value": "S99915069"
+      },
+      {
+        "type": {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/v2-0203",
+              "code": "PPN",
+              "display": "Passport Number"
+            }
+          ],
+          "text": "Passport Number"
+        },
+        "system": "http://standardhealthrecord.org/fhir/StructureDefinition/passportNumber",
+        "value": "X9371830X"
+      }
+    ],
+    "name": [
+      {
+        "use": "official",
+        "family": "Osinski",
+        "given": [
+          "Zachariah"
+        ],
+        "prefix": [
+          "Mr."
+        ]
+      }
+    ],
+    "telecom": [
+      {
+        "system": "phone",
+        "value": "555-9007"
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1920-10-03",
+    "address": [
+      {
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/geolocation",
+            "extension": [
+              {
+                "url": "latitude",
+                "valueDecimal": 42.219645
+              },
+              {
+                "url": "longitude",
+                "valueDecimal": -71.216768
+              }
+            ]
+          }
+        ],
+        "line": [
+          "103 Mann Fork Suite 28"
+        ],
+        "city": "Westwood",
+        "state": "Massachusetts",
+        "postalCode": "02090",
+        "country": "US"
+      }
+    ],
+    "maritalStatus": {
+      "coding": [
+        {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-MaritalStatus",
+          "code": "M",
+          "display": "M"
+        }
+      ],
+      "text": "M"
+    },
+    "multipleBirthBoolean": false,
+    "communication": [
+      {
+        "language": {
+          "coding": [
+            {
+              "system": "urn:ietf:bcp:47",
+              "code": "pt",
+              "display": "Portuguese"
+            }
+          ],
+          "text": "Portuguese"
+        }
+      }
+    ]
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "FHIR",
+      "synthetic",
+      "review-required"
+    ]
+  },
+  "status": "pending",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852505362"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc21971b733d212f3d109"
+  },
+  "source": "fhir_patient",
+  "sourceId": "4902787",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Synthetic FHIR Patient resource. Administrative outreach draft only; no clinical urgency inferred. Gender: unknown.",
+    "industry": "Healthcare",
+    "location": "",
+    "details": {
+      "gender": "unknown",
+      "birthDate": null,
+      "active": null,
+      "resourceType": "Patient"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852505370"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Ref",
+    "family": "Target",
+    "display": "Ref Target"
+  },
+  "rawPayload": {
+    "resourceType": "Patient",
+    "id": "4902787",
+    "meta": {
+      "versionId": "1",
+      "lastUpdated": "2026-10-24T05:22:21.102-04:00"
+    },
+    "identifier": [
+      {
+        "system": "https://fhir-place.dev/test",
+        "value": "b0c1f003-cdc7-4540-a246-51747aec6a4b"
+      }
+    ],
+    "name": [
+      {
+        "family": "Target",
+        "given": [
+          "Ref"
+        ]
+      }
+    ],
+    "gender": "unknown"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "FHIR",
+      "synthetic",
+      "review-required"
+    ]
+  },
+  "status": "pending",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852505370"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc21971b733d212f3d10b"
+  },
+  "source": "fhir_patient",
+  "sourceId": "yara",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Synthetic FHIR Patient resource. Administrative outreach draft only; no clinical urgency inferred. Gender: female.",
+    "industry": "Healthcare",
+    "location": "",
+    "details": {
+      "gender": "female",
+      "birthDate": "1993-11-21",
+      "active": null,
+      "resourceType": "Patient"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852505375"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Yara",
+    "family": "Synthetic",
+    "display": "Yara Synthetic"
+  },
+  "rawPayload": {
+    "resourceType": "Patient",
+    "id": "yara",
+    "meta": {
+      "versionId": "14",
+      "lastUpdated": "2026-10-24T03:04:21.753-04:00"
+    },
+    "name": [
+      {
+        "family": "Synthetic",
+        "given": [
+          "Yara"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1993-11-21"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "FHIR",
+      "synthetic",
+      "review-required"
+    ]
+  },
+  "status": "pending",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852505375"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc21971b733d212f3d10d"
+  },
+  "source": "fhir_patient",
+  "sourceId": "will",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Synthetic FHIR Patient resource. Administrative outreach draft only; no clinical urgency inferred. Gender: male.",
+    "industry": "Healthcare",
+    "location": "",
+    "details": {
+      "gender": "male",
+      "birthDate": "1985-11-22",
+      "active": null,
+      "resourceType": "Patient"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852505377"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Will",
+    "family": "Synthetic",
+    "display": "Will Synthetic"
+  },
+  "rawPayload": {
+    "resourceType": "Patient",
+    "id": "will",
+    "meta": {
+      "versionId": "14",
+      "lastUpdated": "2026-10-24T03:04:21.230-04:00"
+    },
+    "name": [
+      {
+        "family": "Synthetic",
+        "given": [
+          "Will"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1985-11-22"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "FHIR",
+      "synthetic",
+      "review-required"
+    ]
+  },
+  "status": "pending",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852505377"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc21971b733d212f3d10f"
+  },
+  "source": "fhir_patient",
+  "sourceId": "vera",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Synthetic FHIR Patient resource. Administrative outreach draft only; no clinical urgency inferred. Gender: female.",
+    "industry": "Healthcare",
+    "location": "",
+    "details": {
+      "gender": "female",
+      "birthDate": "1961-10-08",
+      "active": null,
+      "resourceType": "Patient"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852505381"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Vera",
+    "family": "Synthetic",
+    "display": "Vera Synthetic"
+  },
+  "rawPayload": {
+    "resourceType": "Patient",
+    "id": "vera",
+    "meta": {
+      "versionId": "14",
+      "lastUpdated": "2026-10-24T03:04:20.713-04:00"
+    },
+    "name": [
+      {
+        "family": "Synthetic",
+        "given": [
+          "Vera"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1961-10-08"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "FHIR",
+      "synthetic",
+      "review-required"
+    ]
+  },
+  "status": "pending",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852505381"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc21971b733d212f3d111"
+  },
+  "source": "fhir_patient",
+  "sourceId": "uma",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Synthetic FHIR Patient resource. Administrative outreach draft only; no clinical urgency inferred. Gender: female.",
+    "industry": "Healthcare",
+    "location": "",
+    "details": {
+      "gender": "female",
+      "birthDate": null,
+      "active": null,
+      "resourceType": "Patient"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852505384"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Uma",
+    "family": "Synthetic",
+    "display": "Uma Synthetic"
+  },
+  "rawPayload": {
+    "resourceType": "Patient",
+    "id": "uma",
+    "meta": {
+      "versionId": "11",
+      "lastUpdated": "2026-10-24T03:04:20.222-04:00"
+    },
+    "name": [
+      {
+        "family": "Synthetic",
+        "given": [
+          "Uma"
+        ]
+      }
+    ],
+    "gender": "female"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "FHIR",
+      "synthetic",
+      "review-required"
+    ]
+  },
+  "status": "pending",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852505384"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc21971b733d212f3d113"
+  },
+  "source": "fhir_patient",
+  "sourceId": "theo",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Synthetic FHIR Patient resource. Administrative outreach draft only; no clinical urgency inferred. Gender: male.",
+    "industry": "Healthcare",
+    "location": "",
+    "details": {
+      "gender": "male",
+      "birthDate": "1990-07-05",
+      "active": null,
+      "resourceType": "Patient"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852505387"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Theo",
+    "family": "Synthetic",
+    "display": "Theo Synthetic"
+  },
+  "rawPayload": {
+    "resourceType": "Patient",
+    "id": "theo",
+    "meta": {
+      "versionId": "14",
+      "lastUpdated": "2026-10-24T03:04:19.748-04:00"
+    },
+    "name": [
+      {
+        "family": "Synthetic",
+        "given": [
+          "Theo"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1990-07-05"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "FHIR",
+      "synthetic",
+      "review-required"
+    ]
+  },
+  "status": "pending",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852505387"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc21971b733d212f3d115"
+  },
+  "source": "fhir_patient",
+  "sourceId": "sofia",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Synthetic FHIR Patient resource. Administrative outreach draft only; no clinical urgency inferred. Gender: female.",
+    "industry": "Healthcare",
+    "location": "",
+    "details": {
+      "gender": "female",
+      "birthDate": "1981-09-13",
+      "active": null,
+      "resourceType": "Patient"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852505391"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Sofia",
+    "family": "Synthetic",
+    "display": "Sofia Synthetic"
+  },
+  "rawPayload": {
+    "resourceType": "Patient",
+    "id": "sofia",
+    "meta": {
+      "versionId": "14",
+      "lastUpdated": "2026-10-24T03:04:19.098-04:00"
+    },
+    "name": [
+      {
+        "family": "Synthetic",
+        "given": [
+          "Sofia"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1981-09-13"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "FHIR",
+      "synthetic",
+      "review-required"
+    ]
+  },
+  "status": "pending",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852505391"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc21971b733d212f3d117"
+  },
+  "source": "fhir_patient",
+  "sourceId": "sam",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Synthetic FHIR Patient resource. Administrative outreach draft only; no clinical urgency inferred. Gender: male.",
+    "industry": "Healthcare",
+    "location": "",
+    "details": {
+      "gender": "male",
+      "birthDate": "1972-04-26",
+      "active": null,
+      "resourceType": "Patient"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852505393"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Sam",
+    "family": "Synthetic",
+    "display": "Sam Synthetic"
+  },
+  "rawPayload": {
+    "resourceType": "Patient",
+    "id": "sam",
+    "meta": {
+      "versionId": "14",
+      "lastUpdated": "2026-10-24T03:04:18.247-04:00"
+    },
+    "name": [
+      {
+        "family": "Synthetic",
+        "given": [
+          "Sam"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1972-04-26"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "FHIR",
+      "synthetic",
+      "review-required"
+    ]
+  },
+  "status": "pending",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852505393"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc21971b733d212f3d119"
+  },
+  "source": "fhir_patient",
+  "sourceId": "rosa",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Synthetic FHIR Patient resource. Administrative outreach draft only; no clinical urgency inferred. Gender: female.",
+    "industry": "Healthcare",
+    "location": "",
+    "details": {
+      "gender": "female",
+      "birthDate": "1971-04-24",
+      "active": null,
+      "resourceType": "Patient"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852505398"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Rosa",
+    "family": "Synthetic",
+    "display": "Rosa Synthetic"
+  },
+  "rawPayload": {
+    "resourceType": "Patient",
+    "id": "rosa",
+    "meta": {
+      "versionId": "14",
+      "lastUpdated": "2026-10-24T03:04:17.727-04:00"
+    },
+    "name": [
+      {
+        "family": "Synthetic",
+        "given": [
+          "Rosa"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1971-04-24"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "FHIR",
+      "synthetic",
+      "review-required"
+    ]
+  },
+  "status": "pending",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852505398"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc21971b733d212f3d11b"
+  },
+  "source": "fhir_patient",
+  "sourceId": "priya",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Synthetic FHIR Patient resource. Administrative outreach draft only; no clinical urgency inferred. Gender: female.",
+    "industry": "Healthcare",
+    "location": "",
+    "details": {
+      "gender": "female",
+      "birthDate": "1980-01-13",
+      "active": null,
+      "resourceType": "Patient"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852505400"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Priya",
+    "family": "Synthetic",
+    "display": "Priya Synthetic"
+  },
+  "rawPayload": {
+    "resourceType": "Patient",
+    "id": "priya",
+    "meta": {
+      "versionId": "14",
+      "lastUpdated": "2026-10-24T03:04:17.208-04:00"
+    },
+    "name": [
+      {
+        "family": "Synthetic",
+        "given": [
+          "Priya"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1980-01-13"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "FHIR",
+      "synthetic",
+      "review-required"
+    ]
+  },
+  "status": "pending",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852505400"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc21971b733d212f3d11d"
+  },
+  "source": "fhir_patient",
+  "sourceId": "omar",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Synthetic FHIR Patient resource. Administrative outreach draft only; no clinical urgency inferred. Gender: male.",
+    "industry": "Healthcare",
+    "location": "",
+    "details": {
+      "gender": "male",
+      "birthDate": "1977-06-23",
+      "active": null,
+      "resourceType": "Patient"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852505403"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Omar",
+    "family": "Synthetic",
+    "display": "Omar Synthetic"
+  },
+  "rawPayload": {
+    "resourceType": "Patient",
+    "id": "omar",
+    "meta": {
+      "versionId": "14",
+      "lastUpdated": "2026-10-24T03:04:16.753-04:00"
+    },
+    "name": [
+      {
+        "family": "Synthetic",
+        "given": [
+          "Omar"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1977-06-23"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "FHIR",
+      "synthetic",
+      "review-required"
+    ]
+  },
+  "status": "pending",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852505403"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc21971b733d212f3d11f"
+  },
+  "source": "fhir_patient",
+  "sourceId": "nora",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Synthetic FHIR Patient resource. Administrative outreach draft only; no clinical urgency inferred. Gender: female.",
+    "industry": "Healthcare",
+    "location": "",
+    "details": {
+      "gender": "female",
+      "birthDate": "1988-02-01",
+      "active": null,
+      "resourceType": "Patient"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852505406"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Nora",
+    "family": "Synthetic",
+    "display": "Nora Synthetic"
+  },
+  "rawPayload": {
+    "resourceType": "Patient",
+    "id": "nora",
+    "meta": {
+      "versionId": "14",
+      "lastUpdated": "2026-10-24T03:04:16.323-04:00"
+    },
+    "name": [
+      {
+        "family": "Synthetic",
+        "given": [
+          "Nora"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1988-02-01"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "FHIR",
+      "synthetic",
+      "review-required"
+    ]
+  },
+  "status": "pending",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852505406"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc21971b733d212f3d121"
+  },
+  "source": "fhir_patient",
+  "sourceId": "maria",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Synthetic FHIR Patient resource. Administrative outreach draft only; no clinical urgency inferred. Gender: female.",
+    "industry": "Healthcare",
+    "location": "",
+    "details": {
+      "gender": "female",
+      "birthDate": "1982-07-25",
+      "active": null,
+      "resourceType": "Patient"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852505409"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Maria",
+    "family": "Synthetic",
+    "display": "Maria Synthetic"
+  },
+  "rawPayload": {
+    "resourceType": "Patient",
+    "id": "maria",
+    "meta": {
+      "versionId": "14",
+      "lastUpdated": "2026-10-24T03:04:15.727-04:00"
+    },
+    "name": [
+      {
+        "family": "Synthetic",
+        "given": [
+          "Maria"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1982-07-25"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "FHIR",
+      "synthetic",
+      "review-required"
+    ]
+  },
+  "status": "pending",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852505409"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc21971b733d212f3d123"
+  },
+  "source": "fhir_patient",
+  "sourceId": "lee",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Synthetic FHIR Patient resource. Administrative outreach draft only; no clinical urgency inferred. Gender: male.",
+    "industry": "Healthcare",
+    "location": "",
+    "details": {
+      "gender": "male",
+      "birthDate": "1992-09-26",
+      "active": null,
+      "resourceType": "Patient"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852505412"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Lee",
+    "family": "Synthetic",
+    "display": "Lee Synthetic"
+  },
+  "rawPayload": {
+    "resourceType": "Patient",
+    "id": "lee",
+    "meta": {
+      "versionId": "14",
+      "lastUpdated": "2026-10-24T03:04:15.044-04:00"
+    },
+    "name": [
+      {
+        "family": "Synthetic",
+        "given": [
+          "Lee"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1992-09-26"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "FHIR",
+      "synthetic",
+      "review-required"
+    ]
+  },
+  "status": "pending",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852505412"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc21971b733d212f3d125"
+  },
+  "source": "fhir_patient",
+  "sourceId": "kai",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Synthetic FHIR Patient resource. Administrative outreach draft only; no clinical urgency inferred. Gender: male.",
+    "industry": "Healthcare",
+    "location": "",
+    "details": {
+      "gender": "male",
+      "birthDate": "2009-07-08",
+      "active": null,
+      "resourceType": "Patient"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852505414"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Kai",
+    "family": "Synthetic",
+    "display": "Kai Synthetic"
+  },
+  "rawPayload": {
+    "resourceType": "Patient",
+    "id": "kai",
+    "meta": {
+      "versionId": "14",
+      "lastUpdated": "2026-10-24T03:04:14.568-04:00"
+    },
+    "name": [
+      {
+        "family": "Synthetic",
+        "given": [
+          "Kai"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "2009-07-08"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "FHIR",
+      "synthetic",
+      "review-required"
+    ]
+  },
+  "status": "pending",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852505414"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc21971b733d212f3d127"
+  },
+  "source": "fhir_patient",
+  "sourceId": "james",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Synthetic FHIR Patient resource. Administrative outreach draft only; no clinical urgency inferred. Gender: male.",
+    "industry": "Healthcare",
+    "location": "",
+    "details": {
+      "gender": "male",
+      "birthDate": "1977-12-10",
+      "active": null,
+      "resourceType": "Patient"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852505418"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "James",
+    "family": "Synthetic",
+    "display": "James Synthetic"
+  },
+  "rawPayload": {
+    "resourceType": "Patient",
+    "id": "james",
+    "meta": {
+      "versionId": "14",
+      "lastUpdated": "2026-10-24T03:04:14.023-04:00"
+    },
+    "name": [
+      {
+        "family": "Synthetic",
+        "given": [
+          "James"
+        ]
+      }
+    ],
+    "gender": "male",
+    "birthDate": "1977-12-10"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "FHIR",
+      "synthetic",
+      "review-required"
+    ]
+  },
+  "status": "pending",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852505418"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc21971b733d212f3d129"
+  },
+  "source": "fhir_patient",
+  "sourceId": "grace",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Synthetic FHIR Patient resource. Administrative outreach draft only; no clinical urgency inferred. Gender: female.",
+    "industry": "Healthcare",
+    "location": "",
+    "details": {
+      "gender": "female",
+      "birthDate": "1981-12-12",
+      "active": null,
+      "resourceType": "Patient"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852505421"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Grace",
+    "family": "Synthetic",
+    "display": "Grace Synthetic"
+  },
+  "rawPayload": {
+    "resourceType": "Patient",
+    "id": "grace",
+    "meta": {
+      "versionId": "14",
+      "lastUpdated": "2026-10-24T03:04:13.569-04:00"
+    },
+    "name": [
+      {
+        "family": "Synthetic",
+        "given": [
+          "Grace"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1981-12-12"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "FHIR",
+      "synthetic",
+      "review-required"
+    ]
+  },
+  "status": "pending",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852505421"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc21971b733d212f3d12b"
+  },
+  "source": "fhir_patient",
+  "sourceId": "elena",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Synthetic FHIR Patient resource. Administrative outreach draft only; no clinical urgency inferred. Gender: female.",
+    "industry": "Healthcare",
+    "location": "",
+    "details": {
+      "gender": "female",
+      "birthDate": "1989-02-05",
+      "active": null,
+      "resourceType": "Patient"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852505423"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Elena",
+    "family": "Synthetic",
+    "display": "Elena Synthetic"
+  },
+  "rawPayload": {
+    "resourceType": "Patient",
+    "id": "elena",
+    "meta": {
+      "versionId": "14",
+      "lastUpdated": "2026-10-24T03:04:12.571-04:00"
+    },
+    "name": [
+      {
+        "family": "Synthetic",
+        "given": [
+          "Elena"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1989-02-05"
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "FHIR",
+      "synthetic",
+      "review-required"
+    ]
+  },
+  "status": "pending",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852505423"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6adcc21971b733d212f3d12d"
+  },
+  "source": "fhir_patient",
+  "sourceId": "dana",
+  "__v": 0,
+  "contact": {
+    "email": null,
+    "phone": null
+  },
+  "context": {
+    "summary": "Synthetic FHIR Patient resource. Administrative outreach draft only; no clinical urgency inferred. Gender: female.",
+    "industry": "Healthcare",
+    "location": "Poughkeepsie, NY, US",
+    "details": {
+      "gender": "female",
+      "birthDate": "1974-09-06",
+      "active": null,
+      "resourceType": "Patient"
+    }
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852505425"
+    }
+  },
+  "lastError": "",
+  "name": {
+    "given": "Dana",
+    "family": "Synthetic",
+    "display": "Dana Synthetic"
+  },
+  "rawPayload": {
+    "resourceType": "Patient",
+    "id": "dana",
+    "meta": {
+      "versionId": "14",
+      "lastUpdated": "2026-10-24T03:04:11.340-04:00"
+    },
+    "name": [
+      {
+        "family": "Synthetic",
+        "given": [
+          "Dana"
+        ]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1974-09-06",
+    "address": [
+      {
+        "city": "Poughkeepsie",
+        "district": "Dutchess County",
+        "state": "NY",
+        "postalCode": "12601",
+        "country": "US"
+      }
+    ]
+  },
+  "signals": {
+    "priority": "low",
+    "tags": [
+      "FHIR",
+      "synthetic",
+      "review-required"
+    ]
+  },
+  "status": "pending",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852505425"
+    }
+  }
+}]

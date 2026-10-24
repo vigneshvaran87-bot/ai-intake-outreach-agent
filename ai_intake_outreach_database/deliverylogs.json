@@ -1,0 +1,883 @@
+[{
+  "_id": {
+    "$oid": "6adcc2122994123b97d7b732"
+  },
+  "record": {
+    "$oid": "6adcc1ec71b733d212f3d092"
+  },
+  "sourceId": "L001",
+  "destination": "local_mock_cms",
+  "status": "delivered",
+  "httpStatus": 201,
+  "attempts": 1,
+  "payload": {
+    "schemaVersion": "1.0",
+    "record": {
+      "id": "6adcc1ec71b733d212f3d092",
+      "source": "lead",
+      "name": "Rebecca Hart"
+    },
+    "decision": {
+      "classification": "warm_lead",
+      "score": 60,
+      "action": "queue_personalized_follow_up",
+      "channel": "linkedin_draft",
+      "messageDraft": "Hi Rebecca, I noticed liked a post about ai receptionists for medical clinics and thought it could be useful to compare notes on practical ways Northgate Family Clinic teams can streamline their workflow. Would a brief conversation be useful?",
+      "rationale": "Lead qualification is based on the supplied recent activity and connection note, not external enrichment. The signals indicate medium intent; the suggested next step is a draft for human review."
+    },
+    "metadata": {
+      "agentProvider": "rules_fallback",
+      "createdAt": "2026-10-24T14:34:58.735Z"
+    }
+  },
+  "response": {
+    "accepted": true,
+    "receiptId": "CMS-1792852498745-0o4y5",
+    "receivedAt": "2026-10-24T14:34:58.745Z",
+    "recordId": "6adcc1ec71b733d212f3d092"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852498750"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852498750"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6adcc2122994123b97d7b737"
+  },
+  "record": {
+    "$oid": "6adcc1ec71b733d212f3d094"
+  },
+  "sourceId": "L002",
+  "destination": "local_mock_cms",
+  "status": "delivered",
+  "httpStatus": 201,
+  "attempts": 1,
+  "payload": {
+    "schemaVersion": "1.0",
+    "record": {
+      "id": "6adcc1ec71b733d212f3d094",
+      "source": "lead",
+      "name": "Marcus Feldman"
+    },
+    "decision": {
+      "classification": "warm_lead",
+      "score": 60,
+      "action": "queue_personalized_follow_up",
+      "channel": "linkedin_draft",
+      "messageDraft": "Hi Marcus, I noticed commented on a post asking for ghl recommendations and thought it could be useful to compare notes on practical ways Feldman Dental Group teams can streamline their workflow. Would a brief conversation be useful?",
+      "rationale": "Lead qualification is based on the supplied recent activity and connection note, not external enrichment. The signals indicate medium intent; the suggested next step is a draft for human review."
+    },
+    "metadata": {
+      "agentProvider": "rules_fallback",
+      "createdAt": "2026-10-24T14:34:58.759Z"
+    }
+  },
+  "response": {
+    "accepted": true,
+    "receiptId": "CMS-1792852498761-4lnwc",
+    "receivedAt": "2026-10-24T14:34:58.761Z",
+    "recordId": "6adcc1ec71b733d212f3d094"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852498763"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852498763"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6adcc2122994123b97d7b73c"
+  },
+  "record": {
+    "$oid": "6adcc1ec71b733d212f3d096"
+  },
+  "sourceId": "L003",
+  "destination": "local_mock_cms",
+  "status": "delivered",
+  "httpStatus": 201,
+  "attempts": 1,
+  "payload": {
+    "schemaVersion": "1.0",
+    "record": {
+      "id": "6adcc1ec71b733d212f3d096",
+      "source": "lead",
+      "name": "Priya Nair"
+    },
+    "decision": {
+      "classification": "cold_lead",
+      "score": 30,
+      "action": "nurture",
+      "channel": "linkedin_draft",
+      "messageDraft": "Hi Priya, I noticed shared an article about patient no-show rates and thought it could be useful to compare notes on practical ways Sunrise Physiotherapy teams can streamline their workflow. Would a brief conversation be useful?",
+      "rationale": "Lead qualification is based on the supplied recent activity and connection note, not external enrichment. The signals indicate low intent; the suggested next step is a draft for human review."
+    },
+    "metadata": {
+      "agentProvider": "rules_fallback",
+      "createdAt": "2026-10-24T14:34:58.767Z"
+    }
+  },
+  "response": {
+    "accepted": true,
+    "receiptId": "CMS-1792852498768-1crdp",
+    "receivedAt": "2026-10-24T14:34:58.768Z",
+    "recordId": "6adcc1ec71b733d212f3d096"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852498770"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852498770"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6adcc2122994123b97d7b741"
+  },
+  "record": {
+    "$oid": "6adcc1ec71b733d212f3d098"
+  },
+  "sourceId": "L004",
+  "destination": "local_mock_cms",
+  "status": "delivered",
+  "httpStatus": 201,
+  "attempts": 1,
+  "payload": {
+    "schemaVersion": "1.0",
+    "record": {
+      "id": "6adcc1ec71b733d212f3d098",
+      "source": "lead",
+      "name": "James O'Connell"
+    },
+    "decision": {
+      "classification": "cold_lead",
+      "score": 30,
+      "action": "nurture",
+      "channel": "linkedin_draft",
+      "messageDraft": "Hi James, I noticed posted about struggling with lead follow-up speed and thought it could be useful to compare notes on practical ways O'Connell Med Spa teams can streamline their workflow. Would a brief conversation be useful?",
+      "rationale": "Lead qualification is based on the supplied recent activity and connection note, not external enrichment. The signals indicate low intent; the suggested next step is a draft for human review."
+    },
+    "metadata": {
+      "agentProvider": "rules_fallback",
+      "createdAt": "2026-10-24T14:34:58.775Z"
+    }
+  },
+  "response": {
+    "accepted": true,
+    "receiptId": "CMS-1792852498777-n3x25",
+    "receivedAt": "2026-10-24T14:34:58.777Z",
+    "recordId": "6adcc1ec71b733d212f3d098"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852498778"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852498778"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6adcc2122994123b97d7b746"
+  },
+  "record": {
+    "$oid": "6adcc1ec71b733d212f3d09a"
+  },
+  "sourceId": "L005",
+  "destination": "local_mock_cms",
+  "status": "delivered",
+  "httpStatus": 201,
+  "attempts": 1,
+  "payload": {
+    "schemaVersion": "1.0",
+    "record": {
+      "id": "6adcc1ec71b733d212f3d09a",
+      "source": "lead",
+      "name": "Angela Torres"
+    },
+    "decision": {
+      "classification": "warm_lead",
+      "score": 60,
+      "action": "queue_personalized_follow_up",
+      "channel": "linkedin_draft",
+      "messageDraft": "Hi Angela, I noticed attended a hubspot webinar last week and thought it could be useful to compare notes on practical ways ClearPath Urgent Care teams can streamline their workflow. Would a brief conversation be useful?",
+      "rationale": "Lead qualification is based on the supplied recent activity and connection note, not external enrichment. The signals indicate medium intent; the suggested next step is a draft for human review."
+    },
+    "metadata": {
+      "agentProvider": "rules_fallback",
+      "createdAt": "2026-10-24T14:34:58.784Z"
+    }
+  },
+  "response": {
+    "accepted": true,
+    "receiptId": "CMS-1792852498785-cm1f9",
+    "receivedAt": "2026-10-24T14:34:58.785Z",
+    "recordId": "6adcc1ec71b733d212f3d09a"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852498786"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852498786"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6adcc2122994123b97d7b74b"
+  },
+  "record": {
+    "$oid": "6adcc1ec71b733d212f3d09c"
+  },
+  "sourceId": "L006",
+  "destination": "local_mock_cms",
+  "status": "delivered",
+  "httpStatus": 201,
+  "attempts": 1,
+  "payload": {
+    "schemaVersion": "1.0",
+    "record": {
+      "id": "6adcc1ec71b733d212f3d09c",
+      "source": "lead",
+      "name": "David Kim"
+    },
+    "decision": {
+      "classification": "warm_lead",
+      "score": 60,
+      "action": "queue_personalized_follow_up",
+      "channel": "linkedin_draft",
+      "messageDraft": "Hi David, I noticed liked competitor's ai voice agent case study and thought it could be useful to compare notes on practical ways Kim Chiropractic Network teams can streamline their workflow. Would a brief conversation be useful?",
+      "rationale": "Lead qualification is based on the supplied recent activity and connection note, not external enrichment. The signals indicate medium intent; the suggested next step is a draft for human review."
+    },
+    "metadata": {
+      "agentProvider": "rules_fallback",
+      "createdAt": "2026-10-24T14:34:58.790Z"
+    }
+  },
+  "response": {
+    "accepted": true,
+    "receiptId": "CMS-1792852498792-ten53",
+    "receivedAt": "2026-10-24T14:34:58.792Z",
+    "recordId": "6adcc1ec71b733d212f3d09c"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852498793"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852498793"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6adcc2122994123b97d7b750"
+  },
+  "record": {
+    "$oid": "6adcc1ec71b733d212f3d09e"
+  },
+  "sourceId": "L007",
+  "destination": "local_mock_cms",
+  "status": "delivered",
+  "httpStatus": 201,
+  "attempts": 1,
+  "payload": {
+    "schemaVersion": "1.0",
+    "record": {
+      "id": "6adcc1ec71b733d212f3d09e",
+      "source": "lead",
+      "name": "Laura Bianchi"
+    },
+    "decision": {
+      "classification": "warm_lead",
+      "score": 60,
+      "action": "queue_personalized_follow_up",
+      "channel": "linkedin_draft",
+      "messageDraft": "Hi Laura, I noticed commented asking about missed call recovery tools and thought it could be useful to compare notes on practical ways Bianchi Orthodontics teams can streamline their workflow. Would a brief conversation be useful?",
+      "rationale": "Lead qualification is based on the supplied recent activity and connection note, not external enrichment. The signals indicate medium intent; the suggested next step is a draft for human review."
+    },
+    "metadata": {
+      "agentProvider": "rules_fallback",
+      "createdAt": "2026-10-24T14:34:58.797Z"
+    }
+  },
+  "response": {
+    "accepted": true,
+    "receiptId": "CMS-1792852498799-ghbgg",
+    "receivedAt": "2026-10-24T14:34:58.799Z",
+    "recordId": "6adcc1ec71b733d212f3d09e"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852498800"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852498800"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6adcc2122994123b97d7b755"
+  },
+  "record": {
+    "$oid": "6adcc1ec71b733d212f3d0a0"
+  },
+  "sourceId": "L008",
+  "destination": "local_mock_cms",
+  "status": "delivered",
+  "httpStatus": 201,
+  "attempts": 1,
+  "payload": {
+    "schemaVersion": "1.0",
+    "record": {
+      "id": "6adcc1ec71b733d212f3d0a0",
+      "source": "lead",
+      "name": "Samuel Okafor"
+    },
+    "decision": {
+      "classification": "cold_lead",
+      "score": 30,
+      "action": "nurture",
+      "channel": "linkedin_draft",
+      "messageDraft": "Hi Samuel, I noticed shared a post about patient scheduling pain points and thought it could be useful to compare notes on practical ways Okafor Eye Care teams can streamline their workflow. Would a brief conversation be useful?",
+      "rationale": "Lead qualification is based on the supplied recent activity and connection note, not external enrichment. The signals indicate low intent; the suggested next step is a draft for human review."
+    },
+    "metadata": {
+      "agentProvider": "rules_fallback",
+      "createdAt": "2026-10-24T14:34:58.804Z"
+    }
+  },
+  "response": {
+    "accepted": true,
+    "receiptId": "CMS-1792852498807-xwmz3",
+    "receivedAt": "2026-10-24T14:34:58.807Z",
+    "recordId": "6adcc1ec71b733d212f3d0a0"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852498808"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852498808"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6adcc2122994123b97d7b75a"
+  },
+  "record": {
+    "$oid": "6adcc1ec71b733d212f3d0a2"
+  },
+  "sourceId": "L009",
+  "destination": "local_mock_cms",
+  "status": "delivered",
+  "httpStatus": 201,
+  "attempts": 1,
+  "payload": {
+    "schemaVersion": "1.0",
+    "record": {
+      "id": "6adcc1ec71b733d212f3d0a2",
+      "source": "lead",
+      "name": "Emily Zhang"
+    },
+    "decision": {
+      "classification": "hot_lead",
+      "score": 85,
+      "action": "prioritize_human_follow_up",
+      "channel": "linkedin_draft",
+      "messageDraft": "Hi Emily, I noticed posted about hiring more front-desk staff due to call volume and thought it could be useful to compare notes on practical ways Vitality Wellness Group teams can streamline their workflow. Would a brief conversation be useful?",
+      "rationale": "Lead qualification is based on the supplied recent activity and connection note, not external enrichment. The signals indicate high intent; the suggested next step is a draft for human review."
+    },
+    "metadata": {
+      "agentProvider": "rules_fallback",
+      "createdAt": "2026-10-24T14:34:58.811Z"
+    }
+  },
+  "response": {
+    "accepted": true,
+    "receiptId": "CMS-1792852498812-8mley",
+    "receivedAt": "2026-10-24T14:34:58.812Z",
+    "recordId": "6adcc1ec71b733d212f3d0a2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852498814"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852498814"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6adcc2122994123b97d7b75f"
+  },
+  "record": {
+    "$oid": "6adcc1ec71b733d212f3d0a4"
+  },
+  "sourceId": "L010",
+  "destination": "local_mock_cms",
+  "status": "delivered",
+  "httpStatus": 201,
+  "attempts": 1,
+  "payload": {
+    "schemaVersion": "1.0",
+    "record": {
+      "id": "6adcc1ec71b733d212f3d0a4",
+      "source": "lead",
+      "name": "Robert Hayes"
+    },
+    "decision": {
+      "classification": "cold_lead",
+      "score": 30,
+      "action": "nurture",
+      "channel": "linkedin_draft",
+      "messageDraft": "Hi Robert, I noticed no recent activity and thought it could be useful to compare notes on practical ways Hayes Family Dentistry teams can streamline their workflow. Would a brief conversation be useful?",
+      "rationale": "Lead qualification is based on the supplied recent activity and connection note, not external enrichment. The signals indicate low intent; the suggested next step is a draft for human review."
+    },
+    "metadata": {
+      "agentProvider": "rules_fallback",
+      "createdAt": "2026-10-24T14:34:58.817Z"
+    }
+  },
+  "response": {
+    "accepted": true,
+    "receiptId": "CMS-1792852498818-615ds",
+    "receivedAt": "2026-10-24T14:34:58.818Z",
+    "recordId": "6adcc1ec71b733d212f3d0a4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852498819"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852498819"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6adcc2122994123b97d7b764"
+  },
+  "record": {
+    "$oid": "6adcc1ec71b733d212f3d0a6"
+  },
+  "sourceId": "L011",
+  "destination": "local_mock_cms",
+  "status": "delivered",
+  "httpStatus": 201,
+  "attempts": 1,
+  "payload": {
+    "schemaVersion": "1.0",
+    "record": {
+      "id": "6adcc1ec71b733d212f3d0a6",
+      "source": "lead",
+      "name": "Nina Patel"
+    },
+    "decision": {
+      "classification": "warm_lead",
+      "score": 60,
+      "action": "queue_personalized_follow_up",
+      "channel": "linkedin_draft",
+      "messageDraft": "Hi Nina, I noticed liked a post about ai-driven booking conversion and thought it could be useful to compare notes on practical ways MedSpa Collective teams can streamline their workflow. Would a brief conversation be useful?",
+      "rationale": "Lead qualification is based on the supplied recent activity and connection note, not external enrichment. The signals indicate medium intent; the suggested next step is a draft for human review."
+    },
+    "metadata": {
+      "agentProvider": "rules_fallback",
+      "createdAt": "2026-10-24T14:34:58.822Z"
+    }
+  },
+  "response": {
+    "accepted": true,
+    "receiptId": "CMS-1792852498823-ah0vs",
+    "receivedAt": "2026-10-24T14:34:58.823Z",
+    "recordId": "6adcc1ec71b733d212f3d0a6"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852498824"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852498824"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6adcc2122994123b97d7b769"
+  },
+  "record": {
+    "$oid": "6adcc1ec71b733d212f3d0a8"
+  },
+  "sourceId": "L012",
+  "destination": "local_mock_cms",
+  "status": "delivered",
+  "httpStatus": 201,
+  "attempts": 1,
+  "payload": {
+    "schemaVersion": "1.0",
+    "record": {
+      "id": "6adcc1ec71b733d212f3d0a8",
+      "source": "lead",
+      "name": "Tom Whitfield"
+    },
+    "decision": {
+      "classification": "warm_lead",
+      "score": 60,
+      "action": "queue_personalized_follow_up",
+      "channel": "linkedin_draft",
+      "messageDraft": "Hi Tom, I noticed commented on a post about after-hours call handling and thought it could be useful to compare notes on practical ways Whitfield Urgent Care teams can streamline their workflow. Would a brief conversation be useful?",
+      "rationale": "Lead qualification is based on the supplied recent activity and connection note, not external enrichment. The signals indicate medium intent; the suggested next step is a draft for human review."
+    },
+    "metadata": {
+      "agentProvider": "rules_fallback",
+      "createdAt": "2026-10-24T14:34:58.826Z"
+    }
+  },
+  "response": {
+    "accepted": true,
+    "receiptId": "CMS-1792852498827-8648l",
+    "receivedAt": "2026-10-24T14:34:58.827Z",
+    "recordId": "6adcc1ec71b733d212f3d0a8"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852498828"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852498828"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6adcc2122994123b97d7b76e"
+  },
+  "record": {
+    "$oid": "6adcc1ec71b733d212f3d0aa"
+  },
+  "sourceId": "L013",
+  "destination": "local_mock_cms",
+  "status": "delivered",
+  "httpStatus": 201,
+  "attempts": 1,
+  "payload": {
+    "schemaVersion": "1.0",
+    "record": {
+      "id": "6adcc1ec71b733d212f3d0aa",
+      "source": "lead",
+      "name": "Grace Liu"
+    },
+    "decision": {
+      "classification": "cold_lead",
+      "score": 30,
+      "action": "nurture",
+      "channel": "linkedin_draft",
+      "messageDraft": "Hi Grace, I noticed shared an article on patient retention strategies and thought it could be useful to compare notes on practical ways Bloom Physiotherapy teams can streamline their workflow. Would a brief conversation be useful?",
+      "rationale": "Lead qualification is based on the supplied recent activity and connection note, not external enrichment. The signals indicate low intent; the suggested next step is a draft for human review."
+    },
+    "metadata": {
+      "agentProvider": "rules_fallback",
+      "createdAt": "2026-10-24T14:34:58.830Z"
+    }
+  },
+  "response": {
+    "accepted": true,
+    "receiptId": "CMS-1792852498831-zhizw",
+    "receivedAt": "2026-10-24T14:34:58.831Z",
+    "recordId": "6adcc1ec71b733d212f3d0aa"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852498832"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852498832"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6adcc2122994123b97d7b773"
+  },
+  "record": {
+    "$oid": "6adcc1ec71b733d212f3d0ac"
+  },
+  "sourceId": "L014",
+  "destination": "local_mock_cms",
+  "status": "delivered",
+  "httpStatus": 201,
+  "attempts": 1,
+  "payload": {
+    "schemaVersion": "1.0",
+    "record": {
+      "id": "6adcc1ec71b733d212f3d0ac",
+      "source": "lead",
+      "name": "Anthony Russo"
+    },
+    "decision": {
+      "classification": "cold_lead",
+      "score": 30,
+      "action": "nurture",
+      "channel": "linkedin_draft",
+      "messageDraft": "Hi Anthony, I noticed no recent activity, dormant profile and thought it could be useful to compare notes on practical ways Russo Chiropractic teams can streamline their workflow. Would a brief conversation be useful?",
+      "rationale": "Lead qualification is based on the supplied recent activity and connection note, not external enrichment. The signals indicate low intent; the suggested next step is a draft for human review."
+    },
+    "metadata": {
+      "agentProvider": "rules_fallback",
+      "createdAt": "2026-10-24T14:34:58.845Z"
+    }
+  },
+  "response": {
+    "accepted": true,
+    "receiptId": "CMS-1792852498846-t1bbd",
+    "receivedAt": "2026-10-24T14:34:58.846Z",
+    "recordId": "6adcc1ec71b733d212f3d0ac"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852498847"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852498847"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6adcc2122994123b97d7b778"
+  },
+  "record": {
+    "$oid": "6adcc1ec71b733d212f3d0ae"
+  },
+  "sourceId": "L015",
+  "destination": "local_mock_cms",
+  "status": "delivered",
+  "httpStatus": 201,
+  "attempts": 1,
+  "payload": {
+    "schemaVersion": "1.0",
+    "record": {
+      "id": "6adcc1ec71b733d212f3d0ae",
+      "source": "lead",
+      "name": "Sophia Bennett"
+    },
+    "decision": {
+      "classification": "cold_lead",
+      "score": 30,
+      "action": "nurture",
+      "channel": "linkedin_draft",
+      "messageDraft": "Hi Sophia, I noticed posted about launching an ai chatbot pilot and thought it could be useful to compare notes on practical ways CarePoint Clinics teams can streamline their workflow. Would a brief conversation be useful?",
+      "rationale": "Lead qualification is based on the supplied recent activity and connection note, not external enrichment. The signals indicate low intent; the suggested next step is a draft for human review."
+    },
+    "metadata": {
+      "agentProvider": "rules_fallback",
+      "createdAt": "2026-10-24T14:34:58.849Z"
+    }
+  },
+  "response": {
+    "accepted": true,
+    "receiptId": "CMS-1792852498850-3pl7a",
+    "receivedAt": "2026-10-24T14:34:58.850Z",
+    "recordId": "6adcc1ec71b733d212f3d0ae"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852498851"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852498851"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6adcc2122994123b97d7b77d"
+  },
+  "record": {
+    "$oid": "6adcc1ec71b733d212f3d0b0"
+  },
+  "sourceId": "L016",
+  "destination": "local_mock_cms",
+  "status": "delivered",
+  "httpStatus": 201,
+  "attempts": 1,
+  "payload": {
+    "schemaVersion": "1.0",
+    "record": {
+      "id": "6adcc1ec71b733d212f3d0b0",
+      "source": "lead",
+      "name": "Michael Duran"
+    },
+    "decision": {
+      "classification": "warm_lead",
+      "score": 60,
+      "action": "queue_personalized_follow_up",
+      "channel": "linkedin_draft",
+      "messageDraft": "Hi Michael, I noticed liked 3 posts about dental practice marketing this month and thought it could be useful to compare notes on practical ways Duran Dental Studio teams can streamline their workflow. Would a brief conversation be useful?",
+      "rationale": "Lead qualification is based on the supplied recent activity and connection note, not external enrichment. The signals indicate medium intent; the suggested next step is a draft for human review."
+    },
+    "metadata": {
+      "agentProvider": "rules_fallback",
+      "createdAt": "2026-10-24T14:34:58.854Z"
+    }
+  },
+  "response": {
+    "accepted": true,
+    "receiptId": "CMS-1792852498855-trf7q",
+    "receivedAt": "2026-10-24T14:34:58.855Z",
+    "recordId": "6adcc1ec71b733d212f3d0b0"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852498855"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852498855"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6adcc2122994123b97d7b782"
+  },
+  "record": {
+    "$oid": "6adcc1ec71b733d212f3d0b2"
+  },
+  "sourceId": "L017",
+  "destination": "local_mock_cms",
+  "status": "delivered",
+  "httpStatus": 201,
+  "attempts": 1,
+  "payload": {
+    "schemaVersion": "1.0",
+    "record": {
+      "id": "6adcc1ec71b733d212f3d0b2",
+      "source": "lead",
+      "name": "Chloe Fournier"
+    },
+    "decision": {
+      "classification": "warm_lead",
+      "score": 60,
+      "action": "queue_personalized_follow_up",
+      "channel": "linkedin_draft",
+      "messageDraft": "Hi Chloe, I noticed commented asking about multilingual ai receptionists and thought it could be useful to compare notes on practical ways Fournier Med Spa teams can streamline their workflow. Would a brief conversation be useful?",
+      "rationale": "Lead qualification is based on the supplied recent activity and connection note, not external enrichment. The signals indicate medium intent; the suggested next step is a draft for human review."
+    },
+    "metadata": {
+      "agentProvider": "rules_fallback",
+      "createdAt": "2026-10-24T14:34:58.859Z"
+    }
+  },
+  "response": {
+    "accepted": true,
+    "receiptId": "CMS-1792852498860-h7xei",
+    "receivedAt": "2026-10-24T14:34:58.860Z",
+    "recordId": "6adcc1ec71b733d212f3d0b2"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852498860"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852498860"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6adcc2122994123b97d7b787"
+  },
+  "record": {
+    "$oid": "6adcc1ec71b733d212f3d0b4"
+  },
+  "sourceId": "L018",
+  "destination": "local_mock_cms",
+  "status": "delivered",
+  "httpStatus": 201,
+  "attempts": 1,
+  "payload": {
+    "schemaVersion": "1.0",
+    "record": {
+      "id": "6adcc1ec71b733d212f3d0b4",
+      "source": "lead",
+      "name": "Kevin Brooks"
+    },
+    "decision": {
+      "classification": "cold_lead",
+      "score": 30,
+      "action": "nurture",
+      "channel": "linkedin_draft",
+      "messageDraft": "Hi Kevin, I noticed shared a post about reducing patient wait times and thought it could be useful to compare notes on practical ways Brooks Urgent Care Network teams can streamline their workflow. Would a brief conversation be useful?",
+      "rationale": "Lead qualification is based on the supplied recent activity and connection note, not external enrichment. The signals indicate low intent; the suggested next step is a draft for human review."
+    },
+    "metadata": {
+      "agentProvider": "rules_fallback",
+      "createdAt": "2026-10-24T14:34:58.863Z"
+    }
+  },
+  "response": {
+    "accepted": true,
+    "receiptId": "CMS-1792852498863-6hdfm",
+    "receivedAt": "2026-10-24T14:34:58.863Z",
+    "recordId": "6adcc1ec71b733d212f3d0b4"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1792852498864"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1792852498864"
+    }
+  },
+  "__v": 0
+}]
